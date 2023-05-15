@@ -1,3 +1,6 @@
 # peple
 442
 $2222224
+git remote add origin https://github.com/Strong414/2552.git
+git branch -M main
+git push -u origin main
